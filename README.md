@@ -17,4 +17,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlsdndia)](https://github.com/dlsdndia/github-readme-stats)
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsdndia&theme=tokyonight&layout=compact)
-[![Instagram Badge](https://img.shields.io/badge/-hwanginwoo-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/hwanginwoo/)](https://www.instagram.com/asthi_21_/)
+[![Instagram Badge](https://img.shields.io/badge/-hwanginwoo-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/hwanginwoo/)](https://www.instagram.com/hwanginwoo/)
