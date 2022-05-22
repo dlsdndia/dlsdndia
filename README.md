@@ -1,4 +1,4 @@
-<h1>👋Hwang Inwoo's GIT repository👋</h1>
+<h1>👋Hwang's GIT repository👋</h1>
 
 <h3> 🤝🏻 Connect with Me </h3>
 <span>:e-mail: : dlsdndia@naver.com</span>
@@ -15,6 +15,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
+[![Naver Badge](https://img.shields.io/badge/-dlsdndia@naver.com-03C75A?style=flat-roundedrectangle&logo=Naver&logoColor=white&link=mailto:dlsdndia@naver.com)](mailto:dlsdndia@naver.com)
 [![Instagram Badge](https://img.shields.io/badge/-hwanginwoo_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/hwanginwoo_/)](https://www.instagram.com/hwanginwoo_/)
 
 
