@@ -1,7 +1,5 @@
 <h1>👋Hwang's GIT repository👋</h1>
 
-<h3> 🤝🏻 Connect with Me </h3>
-<span>:e-mail: : dlsdndia@naver.com</span>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
