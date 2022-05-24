@@ -15,8 +15,13 @@
 
 [![Naver Badge](https://img.shields.io/badge/-dlsdndia@naver.com-03C75A?style=flat-roundedrectangle&logo=Naver&logoColor=white&link=mailto:dlsdndia@naver.com)](mailto:dlsdndia@naver.com)
 [![Instagram Badge](https://img.shields.io/badge/-hwanginwoo_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/hwanginwoo_/)](https://www.instagram.com/hwanginwoo_/)
-[![Tech Blog Badge](https://img.shields.io/badge/-devBucks-white?style=flat-roundedrectangle&logo=Tistory&logoColor=white&link=https://dev-bucks.tistory.com/)](https://dev-bucks.tistory.com/)
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=dev-bucks&theme=white)](https://dev-bucks.tistory.com/)
+
+<h3> Tech Blog </h3>
+
+[![Tistory's Badge](https://tistory-readme-stats.vercel.app/api/badge?name=Tech Blog)](https://dev-bucks.tistory.com/)
+
+[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=dev-bucks.tistory.com)](https://dev-bucks.tistory.com/)
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlsdndia)](https://github.com/dlsdndia/github-readme-stats)
