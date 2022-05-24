@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white"/>
 
 
-<h2> Tech Blog </h2>
+<h2> :computer: Tech Blog </h2>
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=dev-bucks.tistory.com&theme=dark)](https://dev-bucks.tistory.com/)
 
-[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=dev-bucks.tistory.com)](https://dev-bucks.tistory.com/)
+[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=dev-bucks)](https://dev-bucks.tistory.com/)
 
 
 
