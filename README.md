@@ -8,8 +8,10 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="1000"/>  
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsdndia)](https://github.com/anuraghazra/github-readme-stats)  
+
+![Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlsdndia&show_icons=true&theme=radical)
+
 
 
 
