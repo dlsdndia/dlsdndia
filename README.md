@@ -10,10 +10,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlsdndia&theme=moltack)](https://github.com/dlsdndia/github-readme-stats)  
 
 
-
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Kotlin</title><path d="M24 24H0V0h24L12 12Z"/></svg>
   
 ## 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)  ![Mysql](https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white)  ![Kotlin](https://img.shields.io/badge/Kotlin-#7F52FF?style=flat&logo=React&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)  ![Mysql](https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white)  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white)
 
 ## :computer: Tech Blog  ([![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=dev-bucks.tistory.com&theme=dark)](https://dev-bucks.tistory.com/))
 
