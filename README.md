@@ -1,7 +1,7 @@
 # 👋Hwang's GIT repository👋</h1>  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlsdndia&count_bg=%23B8B8B8&title_bg=%23FF0000&icon=&icon_color=%239C9C9C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="1000"/>  
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsdndia)](https://github.com/anuraghazra/github-readme-stats)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlsdndia&theme=moltack)](https://github.com/dlsdndia/github-readme-stats)  
